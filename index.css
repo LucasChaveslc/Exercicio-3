@@ -60,5 +60,25 @@
     font-style: italic;	
     color: black; 
 }
+.coluna-2{
+    padding: 2%;
+    border: none;
+    background-color: #1C1C1C;
+}
+.bg-2{
+    background-color: #1C1C1C;
+}
+.cor-col-2{
+    color: white;
+}
+.icone-row{
+    padding-top: 7%;
+    width: 31%;
+    margin-left: 30%;
+}
+.txt-icon{
+    padding-top: 7%;
+    margin-left: 30%;
+}
 
 
